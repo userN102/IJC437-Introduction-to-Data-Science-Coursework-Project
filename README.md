@@ -186,3 +186,4 @@ After running all scripts, you should see:
 * Cross-validation is **time-aware** (train years precede test years) to avoid using future information.
 * The dataset is short (2019–2023), so results should be interpreted as **indicative**, not definitive.
 
+# IJC447-Introduction-to-Data-Science-Coursework-Project
