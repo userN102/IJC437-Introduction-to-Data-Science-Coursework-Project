@@ -21,7 +21,6 @@ This project analyses UK industry-level business demography data (ONS) to unders
 ---
 
 ## Repository Structure
-## Repository Structure
 
 ```text
 Codes/
@@ -57,6 +56,7 @@ Workflow_Diagram/
 
 A workflow diagram summarising the full data pipeline is provided in the Workflow Diagram/ folder.
 
+```
 ## R Code
 
 ### 1) Data extraction (from the ONS Excel workbook)
