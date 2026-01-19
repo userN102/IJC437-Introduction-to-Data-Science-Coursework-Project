@@ -6,6 +6,9 @@
 This repository is published as a GitHub Pages project site at:  
 [https://usern102.github.io/IJC447-Introduction-to-Data-Science-Coursework-Project/](https://usern102.github.io/IJC447-Introduction-to-Data-Science-Coursework-Project/)
 
+**GitHub Repository:**  
+[https://github.com/userN102/IJC447-Introduction-to-Data-Science-Coursework-Project](https://github.com/userN102/IJC447-Introduction-to-Data-Science-Coursework-Project)
+
 
 This project analyses UK industry-level business demography data (ONS) to understand how **enterprise births** differ across industries and time. It combines cleaned ONS tables into a single master panel, uses **exploratory data analysis (EDA)** to describe patterns and relationships, and then evaluates **forecast-style prediction models** using lagged indicators and time-aware cross-validation.
 
