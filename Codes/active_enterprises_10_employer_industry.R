@@ -33,7 +33,7 @@ df <- df %>%
     industry_level = ifelse(nchar(industry_code) == 2, "division", "group")
   )
 
-# Identify year columns, Year columns are those that look like "2019", "2020", etc
+# Identify year columns
 year_cols <- names(df)[str_detect(names(df), "^[0-9]{4}")]
 
 
