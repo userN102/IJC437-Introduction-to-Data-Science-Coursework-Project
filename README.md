@@ -102,7 +102,8 @@ These scripts read ONS tables and save tidy CSV outputs (long format unless note
   * **Naive lagged-births baseline**
   * **Multiple linear regression (lag-only)**
   * **Random forest regression (lag-only, tuned)**
-    Saves performance metrics, predictions, and diagnostic plots to Outputs/Tables/ and Outputs/Visuals/.
+  
+  Saves performance metrics, predictions, and diagnostic plots to Outputs/Tables/ and Outputs/Visuals/.
 ---
 
 ## How to Download and Run
@@ -172,11 +173,7 @@ After running all scripts, you should see:
 
 * `Dataset/Final_Master_Datasets/master_panel_industry_characteristics_2019_2023.csv`
 * Multiple figures in `Outputs/Visuals/` (EDA + modelling diagnostics)
-* Model results in `Outputs/Tables/`, including:
-
-  * `RQ2_timeCV_metrics_with_baseline_rmse_r2_mae.csv`
-  * `RQ2_timeCV_predictions_log_births_all_models.csv`
-  * Random forest tuning tables and summary CSVs
+* Model results in `Outputs/Tables/`
 
 ---
 
