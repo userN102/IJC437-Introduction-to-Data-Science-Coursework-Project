@@ -4,7 +4,7 @@
 # Explaining Patterns and Short-Term Prediction of Enterprise Births Across UK Industries Using Business Demography Indicators, 2019–2023
 
 This repository is published as a GitHub Pages project site at:  
-[https://usern102.github.io/IJC437-Introduction-to-Data-Science-Coursework-Project/](https://usern102.github.io/IJC447-Introduction-to-Data-Science-Coursework-Project/)
+[https://usern102.github.io/IJC437-Introduction-to-Data-Science-Coursework-Project/](https://usern102.github.io/IJC437-Introduction-to-Data-Science-Coursework-Project/)
 
 **GitHub Repository:**  
 [https://github.com/userN102/IJC437-Introduction-to-Data-Science-Coursework-Project](https://github.com/userN102/IJC447-Introduction-to-Data-Science-Coursework-Project)
